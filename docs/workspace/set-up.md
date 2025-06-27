@@ -4,19 +4,18 @@ In this tutorial we are going to create and work for the first time with an NDP 
 
 ## Setup
 
-1. Go to the National Data Platform [site](https://nationaldataplatform.org/) and login.
-2. On the top bar menu, select *Workspaces*. At this point, you will have no workspaces. 
-3. Select *Create a workspace* and fill the form fields. For the purposes of this tutorial, you can fill it with the following info:
+1. Go to the Wildfire Commons [site](https://www.wildfirecommons.org/) and login.
+2. Create an Expert Network profile and list your expertise.
+3. Navigate to FireForge on the top bar menu, then in the FireForge, select *Workspaces*. At this point, you will have no workspaces. 
+5. Select *Create a workspace* and fill the form fields. For the purposes of this tutorial, you can fill it with the following info:
     - **Name**: demo-workspace
-    - **Description**: This is my first NDP Workspace
+    - **Description**: This is my first Workspace
     - **Instructional Text**: Use this workspace as a demo
-4. Once you fill the form, click on *Open new workspace*. 
+6. Once you fill the form, click on *Open new workspace*. 
 
 ## Adding Resources
 
 When a new workspace is launched, it automatically becomes the **current workspace**. 
-
-<img src="../images/current-workspace.png">
 
 All resources added from the catalog will be associated with this active workspace. If you have multiple workspaces, you can switch the **current workspace** by selecting the *Switch* button in the workspace box of the desired workspace. 
 
@@ -50,7 +49,7 @@ At this point, we have added data and a source code to our workspace. Now we can
 
 ## Using your workspace in JupyterHub
 
-1.Go to [NDP JupyterHub](https://ndp-jupyterhub.nrp-nautilus.io/hub/spawn)
+1.Go to JupyterHub
 
 2.For the purposes of this demo, we don't need major resources. Select the following fields:
 
@@ -64,15 +63,9 @@ At this point, we have added data and a source code to our workspace. Now we can
 
 3.Click on *Start* and wait for your server to start running. 
 
-4.Once you're inside JupyterLab, at your left you will locate the NDP Extension. Click on the *NDP* button. 
-
-<img src="../images/ndp-button.png">
+4.Once you're inside JupyterLab, at your left you will locate the NDP Extension. Click on the *Wildfire Commons* button. 
 
 5.In the extension, select your workspace using the dropdown menu. 
-
-<div style="text-align: center;">
-    <img src="../images/select-workspace.png" alt="Select workspace" width="300">
-</div>
 
 6.At the top of the extension, locate the *current folder*. By default, you will start in the `root/` folder, but keep in mind that files placed here **will not persist across sessions**. To ensure your work is saved for future sessions, switch to the `User_Persistent_Storage` folder. To do this, click on the *current folder* box, navigate to the desired folder (`User_Persistent_Storage`), and then click the NDP button to return to the extension.
  
