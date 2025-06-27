@@ -1,3 +1,3 @@
-# NDP Documentation
+# Wildfire Commons Documentation
 
-NDP Documentation repository. 
+Wildfire Commons Documentation repository. 
