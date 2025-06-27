@@ -1,7 +1,7 @@
-# Acceptable Use of the National Data Platform and Agreement to its Terms of Use.
+# Acceptable Use of the Wildfire Commons and Agreement to its Terms of Use.
 
 <div style="text-align: justify;">
-Please read these Terms of Use (“Terms”) carefully before accessing the National Data Platform (“NDP”). These Terms apply to all NDP’s data, resources, and features. By using NDP, you acknowledge that you have read, understand, and agree to be bound by these Terms without limitation or qualification. If you do not agree to these Terms, you are not authorized to use NDP.
+Please read these Terms of Use (“Terms”) carefully before accessing the Wildfire Commons. These Terms apply to all the Wildfire Commons’s data, resources, and features. By using Wildfire Commons, you acknowledge that you have read, understand, and agree to be bound by these Terms without limitation or qualification. If you do not agree to these Terms, you are not authorized to use Wildfire Commons.
 </div>
 
 #### Modifications to These Terms. 
@@ -13,13 +13,13 @@ We reserve the right to modify these Terms at any time by posting updates on thi
 #### User Eligibility.
 
 <div style="text-align: justify;">
-NDP is designed exclusively for non-commercial purposes, with the goal of facilitating educational, research, and collaborative initiatives among its users. Any attempt to use the platform for commercial gain, such as posting unsolicited messages or advertisements, is strictly prohibited. Violating this policy may result in the suspension or termination of your account, as NDP is committed to maintaining a space that prioritizes academic and research-driven efforts and interests.
+Wildfire Commons is designed exclusively for non-commercial purposes, with the goal of facilitating educational, research, and collaborative initiatives among its users. Any attempt to use the platform for commercial gain, such as posting unsolicited messages or advertisements, is strictly prohibited. Violating this policy may result in the suspension or termination of your account, as Wildfire Commons is committed to maintaining a space that prioritizes academic and research-driven efforts and interests.
 </div>
 
 #### User Registration.
 
 <div style="text-align: justify;">
-Access to certain data, resources, and features of NDP is restricted to registered users, who may be required to provide personal information. By creating an account, you agree to provide accurate and complete information. Providing false information or omitting relevant details may result in the suspension or termination of your access. Additionally, you are prohibited from impersonating another individual or accessing NDP using someone else’s credentials.
+Access to certain data, resources, and features of Wildfire Commons is restricted to registered users, who may be required to provide personal information. By creating an account, you agree to provide accurate and complete information. Providing false information or omitting relevant details may result in the suspension or termination of your access. Additionally, you are prohibited from impersonating another individual or accessing Wildfire Commons using someone else’s credentials.
 </div>
 
 #### User Access.
@@ -30,39 +30,39 @@ You are responsible for:
 2. ensuring that access to your account is restricted to you alone. 
 
 <div style="text-align: justify;">
-Any actions conducted under your account are your responsibility, whether or not they were authorized by you. NDP prohibits the sharing of login credentials with third parties, and you must take all necessary precautions to prevent unauthorized use of your account (e.g., use strong passwords and log out after each session). If you suspect that your account has been compromised or accessed without your permission, it is your responsibility to notify us immediately at ndp@sdsc.edu. NDP will not be held liable for any loss or damage resulting from your failure to protect your login information.
+Any actions conducted under your account are your responsibility, whether or not they were authorized by you. Wildfire Commons prohibits the sharing of login credentials with third parties, and you must take all necessary precautions to prevent unauthorized use of your account (e.g., use strong passwords and log out after each session). If you suspect that your account has been compromised or accessed without your permission, it is your responsibility to notify us immediately at ndp@sdsc.edu. Wildfire Commons will not be held liable for any loss or damage resulting from your failure to protect your login information.
 </div>
 
 #### User Account Termination.
 
 <div style="text-align: justify;">
-We reserve the right to suspend or terminate your access to NDP at our discretion, without prior notice, warning, or justification. This may occur for a variety of reasons, including but not limited to violations of these Terms, misuse of the platform, or any activity we deem harmful, unlawful, or disruptive to the platform’s intended use. In the event of termination, your access to NDP and its data, resources, and features will be immediately terminated and you will no longer have permission to use the platform. 
+We reserve the right to suspend or terminate your access to Wildfire Commons at our discretion, without prior notice, warning, or justification. This may occur for a variety of reasons, including but not limited to violations of these Terms, misuse of the platform, or any activity we deem harmful, unlawful, or disruptive to the platform’s intended use. In the event of termination, your access to Wildfire Commons and its data, resources, and features will be immediately terminated and you will no longer have permission to use the platform. 
 </div>
 
 #### Privacy and Confidentiality.
 
 <div style="text-align: justify;">
-We value your privacy and are committed to safeguarding the confidentiality of your personal information. By using NDP, you agree to the collection, use, and disclosure of your personal data in accordance with the following principles:
+We value your privacy and are committed to safeguarding the confidentiality of your personal information. By using Wildfire Commons, you agree to the collection, use, and disclosure of your personal data in accordance with the following principles:
 <br>
 <br>
-<i>Collection of Information</i>: We may collect personal information that you voluntarily provide when creating an account, submitting data, or interacting with the platform, including but not limited to names, contact information, and any data uploaded to the platform for research, educational, or collaborative purposes. We may contact you to request additional details or to inform you about updates related to NDP. 
+<i>Collection of Information</i>: We may collect personal information that you voluntarily provide when creating an account, submitting data, or interacting with the platform, including but not limited to names, contact information, and any data uploaded to the platform for research, educational, or collaborative purposes. We may contact you to request additional details or to inform you about updates related to Wildfire Commons. 
 <br>
 <br>
-<i>Use of Information</i>: The personal information collected will be used solely for the purposes of operating, maintaining, and improving NDP. We may also use this information to communicate with you regarding platform updates, changes to terms, or service improvements. We will not sell or share your personal information with third parties without your permission except as required to comply with legal obligations, exercise legal claims or rights, or defend legal claims.
+<i>Use of Information</i>: The personal information collected will be used solely for the purposes of operating, maintaining, and improving Wildfire Commons. We may also use this information to communicate with you regarding platform updates, changes to terms, or service improvements. We will not sell or share your personal information with third parties without your permission except as required to comply with legal obligations, exercise legal claims or rights, or defend legal claims.
 <br>
 <br>
-<i>Third-Party Services</i>: NDP may interface with third-party services to provide certain features or functionalities (e.g., external data sources or tools). These third-party services may collect and process data in accordance with their own privacy policies. Users should review those policies to understand how their data is handled by these external parties.
+<i>Third-Party Services</i>: Wildfire Commons may interface with third-party services to provide certain features or functionalities (e.g., external data sources or tools). These third-party services may collect and process data in accordance with their own privacy policies. Users should review those policies to understand how their data is handled by these external parties.
 <br>
 <br>
-<i>Confidentiality of Data</i>: NDP is an open platform for sharing research data, and it is the responsibility of the user to ensure that any data they submit to NDP is appropriate for open dissemination and complies with all applicable laws, including but not limited to privacy, data protection, and intellectual property rights. Accordingly, users are responsible for identifying the legal and regulatory compliance requirements applicable to their organization and data and enforcing the necessary protocol and best practices to meet these requirements. We disclaim any responsibility or obligation to maintain the confidentiality of any information posted on NDP. <b>Do not upload or store any information on NDP if you are required to maintain its confidentiality or expect it to remain confidential</b>. 
+<i>Confidentiality of Data</i>: Wildfire Commons is an open platform for sharing research data, and it is the responsibility of the user to ensure that any data they submit to NDP is appropriate for open dissemination and complies with all applicable laws, including but not limited to privacy, data protection, and intellectual property rights. Accordingly, users are responsible for identifying the legal and regulatory compliance requirements applicable to their organization and data and enforcing the necessary protocol and best practices to meet these requirements. We disclaim any responsibility or obligation to maintain the confidentiality of any information posted on Wildfire Commons. <b>Do not upload or store any information on Wildfire Commons if you are required to maintain its confidentiality or expect it to remain confidential</b>. 
 </div>
 
 #### Permissible Uses.
 
 <div style="text-align: justify;">
-NDP is committed to fostering a collaborative, equitable, and educational environment for all users. To ensure the platform remains a valuable resource, we have established guidelines for the responsible use of NDP’s data, resources, and features. By creating an account and participating in the platform, you agree to use NDP in a legal, ethical manner, in a way that does not harm others, and strictly adhere to these Terms and the National Data Platform Code of Conduct. Failure to comply with these Terms and/or the Code of Conduct may result in the restriction or termination of your access to NDP. Below are the key responsibilities and expectations for users of the platform.
+NDP is committed to fostering a collaborative, equitable, and educational environment for all users. To ensure the platform remains a valuable resource, we have established guidelines for the responsible use of Wildfire Commons’s data, resources, and features. By creating an account and participating in the platform, you agree to use Wildfire Commons in a legal, ethical manner, in a way that does not harm others, and strictly adhere to these Terms and the National Data Platform Code of Conduct. Failure to comply with these Terms and/or the Code of Conduct may result in the restriction or termination of your access to Wildfire Commons. Below are the key responsibilities and expectations for users of the platform.
 
-NDP relies on its community of users to maintain a respectful and appropriate environment, ensuring that all content aligns with the platform’s values and purpose. After creating an account on the platform, you are permitted to upload and share content, collaborate with other users, and make use of the full range of resources and features offered on the platform. All users are encouraged to assist in content moderation by reporting any material that appears offensive or inappropriate to ndp@sdsc.edu. If your content is reported, it will be removed for review. If the content is found to comply with guidelines, it will be restored; otherwise, it will remain removed, and, depending on the severity, your account may be suspended or terminated.
+Wildfire Commons relies on its community of users to maintain a respectful and appropriate environment, ensuring that all content aligns with the platform’s values and purpose. After creating an account on the platform, you are permitted to upload and share content, collaborate with other users, and make use of the full range of resources and features offered on the platform. All users are encouraged to assist in content moderation by reporting any material that appears offensive or inappropriate to info@wildfirecommons.org. If your content is reported, it will be removed for review. If the content is found to comply with guidelines, it will be restored; otherwise, it will remain removed, and, depending on the severity, your account may be suspended or terminated.
 </div>
 
 By accessing and using the platform, you agree to the following:    

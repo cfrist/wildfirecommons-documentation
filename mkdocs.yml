@@ -1,42 +1,28 @@
-site_name: NDP Documentation
-site_url: https://nationaldataplatform.org/documentation
+site_name: Wildfire Commons Documentation
+site_url: https://wildfirecommons.org/documentation
 
 nav:
   - Home: index.md
   - About: 
-    - About NDP: general/about.md
+    - About Wildfire Commons: general/about.md
     - Key Features: general/key-features.md
     - Institutions: general/institutions.md
   - Start: 
     - Sign In: start/signin.md
+    - Expert Network: start/expertnetwork.md
+    - Pathfinders: start/pathfinders.md
   - Catalog:
     - Exploring Data Catalog: catalog/catalog.md
     - Advanced Search: catalog/advanced-search.md
     - Register your data: catalog/register-data.md
-  - Jupyter:
-    - NDP Jupyterhub: jupyter/jupyterhub.md
-    - NDP Widget: jupyter/widget.md
+  - FireForge:
+    - Jupyterhub: jupyter/jupyterhub.md
+    - Widget: jupyter/widget.md
     - Bring your own image: jupyter/bring-your-own-image.md
     - Frequently Encountered Issues: jupyter/fei.md
-  - Workspace: 
-    - NDP Workspace: workspace/index.md
-    - Tutorial: workspace/set-up.md
-  - NDP PoP:
-    - NDP PoP: pop/index.md
-    - Setup Tutorial: pop/setup.md 
-  - NDP Education Hub:
-    - Education Hub: education-hub/index.md
-    - NDP Modules:
-        - NDP Modules: ndp-modules/index.md 
-        - Understanding NDP Modules: ndp-modules/understanding-modules.md
-        - Modules Components: ndp-modules/module-components.md
-        - Module Creation: ndp-modules/module-tutorial.md
-    - NDP Classroom:
-        - NDP Classroom: ndp-classroom/index.md
-        - Set Up: ndp-classroom/set-up.md
-    - NDP Data Challenges:
-        - For Hosts: ndp-data-challenges/hosting-a-data-challenge.md
-        - For Participants: ndp-data-challenges/participating-in-data-challenge.md 
+    - Workspace: 
+      - Workspace: workspace/index.md
+      - Tutorial: workspace/set-up.md
   - Policies and Guidelines: 
         - Terms of Use: policies/terms-of-use.md
         - Privacy Policy: policies/privacy-policy.md
@@ -46,33 +32,30 @@ nav:
 
 theme:
   name: material
-  logo: images/logos/ndp-logo.png
+  logo: docs/general/images/logos/wildfirecommons.png
   features:
     - content.code.copy
     - navigation.top
   palette:
     - scheme: default
       primary: blue
-      accent: indigo
+      accent: orange
       toggle:
         icon: material/eye-outline
         name: Switch to dark mode
     - scheme: slate
       primary: blue
-      accent: indigo
+      accent: orange
       toggle:
         icon: material/eye
         name: Switch to light mode
-repo_url: https://github.com/national-data-platform
 
 extra:
   social:
-    - icon: fontawesome/brands/instagram 
-      link: https://www.instagram.com/nationaldataplatform/
-    - icon: fontawesome/brands/x-twitter 
-      link: https://x.com/natldataplat
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/wildfirecommons.bsky.social
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/national-data-platform/
+      link: https://www.linkedin.com/groups/14463867/
 
 markdown_extensions:
   - tables

@@ -1,6 +1,6 @@
-# NDP JupyterHub
+# JupyterHub
 
-[NDP JupyterHub](https://ndp-jupyterhub.nrp-nautilus.io/hub/spawn) service (hosted by NRP's [Nautilus](https://docs.nationalresearchplatform.org/userdocs/jupyter/jupyterhub-service/)) allows users to develop their workflows in a user-friendly environment.
+JupyterHub service (hosted by NRP's [Nautilus](https://docs.nationalresearchplatform.org/userdocs/jupyter/jupyterhub-service/) and JupyterLite for our industry collaborators) allows users to develop their workflows in a user-friendly environment.
 
 ## Set Up
 !!! info
@@ -23,7 +23,7 @@ Once in the Hub, you can set up your server by selecting the following fields:
 
 Once JupyterHub is launched, you will notice a `_User-Persistent-Storage_` directory. This directory corresponds to your persistent storage. Make sure to save your work in this directory, otherwise it will be lost when you disconnect from your server.
 
-Every user is given a **10GB storage**. If you need more space, contact `ndp@sdsc.edu`. 
+Every user is given a **10GB storage**. If you need more space, contact `info@wildfirecommons.org`. 
 
 ## Stoping your server
 

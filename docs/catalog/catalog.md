@@ -1,8 +1,8 @@
-# Data Catalog 
+# Catalog 
 
-One of the key features of NDP is its extensive and diverse data catalog, which offers a broad selection of datasets and data streams covering various scientific domains. This catalog is enriched through collaboration with numerous organizations and researchers, who contribute datasets which are accessible via the platform’s registration service. 
+One of the key features of Wildfire Commons is its extensive and diverse data, model, and service catalog, which offers a broad selection of datasets and streams covering various models and services. This catalog is enriched through collaboration with numerous organizations and researchers, who contribute listings which are accessible via the platform’s registration service. 
 
-To streamline data discovery, NDP integrates a search engine that enables users to locate datasets quickly and efficiently. 
+To streamline data discovery, Wildfire Commons integrates a search engine that enables users to locate datasets quickly and efficiently. 
 
 #### Substring Search 
 

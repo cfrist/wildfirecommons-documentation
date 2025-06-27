@@ -14,7 +14,7 @@ The demo covers the use of the model for 3 different use cases:
 
 ## Start the notebook
 
-1. Sign in to NDP.
+1. Sign in.
 2. Once you have signed in, launch JupyterHub.
 3. Select the following fields:
     * `Region`: Any

@@ -1,6 +1,6 @@
 # Bring your own image
 
-The NDP JupyterHub service allows users to bring in their own Jupyter-based images, giving them flexibility and control over their computing environment. Here are three key advantages:
+The JupyterHub service allows users to bring in their own Jupyter-based images, giving them flexibility and control over their computing environment. Here are three key advantages:
 
 ## Understanding Containers, Docker, and Images
 
@@ -13,7 +13,7 @@ A Docker image is like a "blueprint" or "recipe" for creating containers. It inc
 and configurations—to run a specific application or environment. Once you build an image, you can use it to create containers 
 anywhere, from your local machine to cloud servers.
 
-When you launch a server in NDP JupyterHub selecting the default , what happens behind curtains is that an image is used to create a JupyterLab 
+When you launch a server in JupyterHub selecting the default , what happens behind curtains is that an image is used to create a JupyterLab 
 with the python minimal setup, plus the [NDP Widget](../jupyter/widget.md).  
 
 

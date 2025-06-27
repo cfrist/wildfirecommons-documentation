@@ -28,7 +28,7 @@ If you have an active server running:
 
 <img src="../images/jhub-logout.png">
 
-**NOTE:** You must log out and log in within JupyterHub, not the main NDP site. If you go to the main NDP site to log out and
+**NOTE:** You must log out and log in within JupyterHub, not the main Wildfire Commons site. If you go to the main Wildfire Commons site to log out and
 log in again, your JupyterHub access token will not be reset. 
 
 !!! warning

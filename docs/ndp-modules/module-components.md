@@ -1,6 +1,6 @@
 # Components of a Module
 
-The main components of an NDP module are the following: 
+The main components of an module are the following: 
  
 ## Module Card
 
@@ -46,7 +46,7 @@ Instructors can add links to external sites as additional resources, facilitatin
 
 ## Datasets
 
-The module creation process is designed to integrate data sources from the NDP catalog. Before incorporating data into their module, instructors are encouraged to explore the data catalog to identify and select the most relevant datasets. Alternatively, they can [register](../catalog/register-data.md) their data into NDP. 
+The module creation process is designed to integrate data sources from the catalog. Before incorporating data into their module, instructors are encouraged to explore the data catalog to identify and select the most relevant datasets. Alternatively, they can [register](../catalog/register-data.md) their data into the Wildfire Commons. 
 
 ## Models
 
