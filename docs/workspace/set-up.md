@@ -19,10 +19,6 @@ When a new workspace is launched, it automatically becomes the **current workspa
 
 All resources added from the catalog will be associated with this active workspace. If you have multiple workspaces, you can switch the **current workspace** by selecting the *Switch* button in the workspace box of the desired workspace. 
 
-<div style="text-align: center;">
-    <img src="../images/switch.png" alt="Switch" width="300">
-</div>
-
 This will designate it as the **current workspace** moving forward.
 
 ### Adding GitHub URL
@@ -68,18 +64,10 @@ At this point, we have added data and a source code to our workspace. Now we can
 5.In the extension, select your workspace using the dropdown menu. 
 
 6.At the top of the extension, locate the *current folder*. By default, you will start in the `root/` folder, but keep in mind that files placed here **will not persist across sessions**. To ensure your work is saved for future sessions, switch to the `User_Persistent_Storage` folder. To do this, click on the *current folder* box, navigate to the desired folder (`User_Persistent_Storage`), and then click the NDP button to return to the extension.
- 
-<div style="text-align: center;">
-    <img src="../images/persistent-storage.png" alt="User Persistent Storage" width="300">
-</div>
 
 7.Go to the third section of the extension, and click on *Clone into current folder*. This will clone the repo we added into our *current folder* (which is the `User_Persistent_Storage` if you made the change in the previous step, or the root if you did not). 
 
 8.Navigate to the `workspace-tutorial` folder and return to the extension. The folder contains a `requirements.txt` file, which you can install by clicking *Install requirements.txt*. 
-
-<div style="text-align: center;">
-    <img src="../images/requirements.png" alt="requirements.txt" width="300">
-</div>
 
 Click the button to install the packages.
 
@@ -89,9 +77,5 @@ Click the button to install the packages.
 9.Make sure to be in the correct *current folder* (in this case, the GitHub repository folder). In the datasets dropdown menu, you will see all the datasets that you previously added to the workspace, along with its associated resources. For this demo, you will select the last file on the list (`uniform-pgml-success_list_simulation_run.csv`) and click on *Add resources to current folder*. 
 
 10.With your libraries installed and the data downloaded, go to the Jupyter Notebook included in the repository folder (`NDP_PGML_EDA.ipynb`) and follow the instructions for its execution.
-
-<div style="text-align: center;">
-    <img src="../images/files-list.png" alt="Files" width="300">
-</div>
 
 In this tutorial we have created our first workspace, added resources to it and executed a Jupyter Notebook. Use NDP workspaces for the development of your projects.
