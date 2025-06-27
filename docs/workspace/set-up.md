@@ -1,6 +1,6 @@
 # Workspace Tutorial
 
-In this tutorial we are going to create and work for the first time with an NDP workspace. 
+In this tutorial we are going to create and work for the first time with a workspace. 
 
 ## Setup
 
