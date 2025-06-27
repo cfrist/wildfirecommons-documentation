@@ -1,3 +1,3 @@
-# This is the first NDP tutorial
+# This is the first tutorial
 
 Some Jupyter Notebook
