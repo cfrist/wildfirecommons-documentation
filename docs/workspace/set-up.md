@@ -54,16 +54,16 @@ At this point, we have added data and a source code to our workspace. Now we can
     - Cores: 1
     - RAM, GB: 16
     - GPU Type: Any
-    - Select Pre-Built Image: Minimal NDP Starter Jupyter Lab
+    - Select Pre-Built Image: Minimal Starter Jupyter Lab
     - Architecture: amd64
 
 3.Click on *Start* and wait for your server to start running. 
 
-4.Once you're inside JupyterLab, at your left you will locate the NDP Extension. Click on the *Wildfire Commons* button. 
+4.Once you're inside JupyterLab, at your left you will locate the Extension. Click on the *Wildfire Commons* button. 
 
 5.In the extension, select your workspace using the dropdown menu. 
 
-6.At the top of the extension, locate the *current folder*. By default, you will start in the `root/` folder, but keep in mind that files placed here **will not persist across sessions**. To ensure your work is saved for future sessions, switch to the `User_Persistent_Storage` folder. To do this, click on the *current folder* box, navigate to the desired folder (`User_Persistent_Storage`), and then click the NDP button to return to the extension.
+6.At the top of the extension, locate the *current folder*. By default, you will start in the `root/` folder, but keep in mind that files placed here **will not persist across sessions**. To ensure your work is saved for future sessions, switch to the `User_Persistent_Storage` folder. To do this, click on the *current folder* box, navigate to the desired folder (`User_Persistent_Storage`), and then click the Wildfire Commons button to return to the extension.
 
 7.Go to the third section of the extension, and click on *Clone into current folder*. This will clone the repo we added into our *current folder* (which is the `User_Persistent_Storage` if you made the change in the previous step, or the root if you did not). 
 
@@ -72,10 +72,10 @@ At this point, we have added data and a source code to our workspace. Now we can
 Click the button to install the packages.
 
 !!! info "Environments are not persistent"
-    ⚠️ **Important:** In the current version of NDP, installed libraries and packages are not saved. Each time you return, you will need to reinstall the packages from your `requirements.txt` file before you can start working.
+    ⚠️ **Important:** In the current version of the Wildfire Commons, installed libraries and packages are not saved. Each time you return, you will need to reinstall the packages from your `requirements.txt` file before you can start working.
 
 9.Make sure to be in the correct *current folder* (in this case, the GitHub repository folder). In the datasets dropdown menu, you will see all the datasets that you previously added to the workspace, along with its associated resources. For this demo, you will select the last file on the list (`uniform-pgml-success_list_simulation_run.csv`) and click on *Add resources to current folder*. 
 
-10.With your libraries installed and the data downloaded, go to the Jupyter Notebook included in the repository folder (`NDP_PGML_EDA.ipynb`) and follow the instructions for its execution.
+10.With your libraries installed and the data downloaded, go to the Jupyter Notebook included in the repository folder (`WildfireCommons_PGML_EDA.ipynb`) and follow the instructions for its execution.
 
-In this tutorial we have created our first workspace, added resources to it and executed a Jupyter Notebook. Use NDP workspaces for the development of your projects.
+In this tutorial we have created our first workspace, added resources to it and executed a Jupyter Notebook. Use workspaces for the development of your projects.
