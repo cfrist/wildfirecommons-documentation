@@ -2,7 +2,6 @@
 
 This is the official documentation site for the [Wildfire Commons](https://www.wildfirecommons.org/).
 
-!!! info
 We believe that avoiding devastating wildfires requires urgent, innovative, and collaborative solutions. The Wildfire Science & Technology Commons is a bold new initiative designed to accelerate technological innovations for wildfire management and mitigation. We are building a community platform around open data, cutting-edge science, AI, and shared knowledge.
 
 Our Mission and Vision
