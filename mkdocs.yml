@@ -1,5 +1,5 @@
 site_name: Wildfire Commons Documentation
-site_url: https://wildfirecommons.org/documentation
+site_url: https://documentation.wildfirecommons.org/documentation
 
 nav:
   - Home: index.md

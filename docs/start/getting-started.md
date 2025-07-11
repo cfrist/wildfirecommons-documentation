@@ -21,13 +21,13 @@ Driving tasks for the Wildfire Commons to achieve these goals include:
 # Getting Started
 
 ## Join the Wildfire Commons Community
-Become a part of our dynamic community. Connect with experts, collaborate on innovative projects, and access exclusive resources. Sign up now and start making an impact. Learn how to create an account and your [Expert Profile](https://documentation.wildfirecommons.org/documentation/start/signin/) 
+Become a part of our dynamic community. Connect with experts, collaborate on innovative projects, and access exclusive resources. Sign up now and start making an impact. Learn how to create an account and your [Expert Profile](https://documentation.wildfirecommons.org/start/signin/) 
 
 ## Use the Catalog
-One of the key features of Wildfire Commons is its extensive and diverse data, model, and service catalog, which offers a broad selection of datasets and streams covering various models and services. This catalog is enriched through collaboration with numerous organizations and researchers, who contribute listings which are accessible via the platform’s registration service. Learn more about the [Catalog](https://documentation.wildfirecommons.org/documentation/catalog/catalog/) and how to [Register Products to the Catalog](https://documentation.wildfirecommons.org/documentation/catalog/register-data/).
+One of the key features of Wildfire Commons is its extensive and diverse data, model, and service catalog, which offers a broad selection of datasets and streams covering various models and services. This catalog is enriched through collaboration with numerous organizations and researchers, who contribute listings which are accessible via the platform’s registration service. Learn more about the [Catalog](https://documentation.wildfirecommons.org/catalog/catalog/) and how to [Register Products to the Catalog](https://documentation.wildfirecommons.org/catalog/register-data/).
 
 ## Learn about the features of FireForge
-FireForge is a community platform to bring data, models, and services into workflows for you to further explore. Learn more about [FireForge Compute](https://documentation.wildfirecommons.org/documentation/jupyter/jupyterhub/) and how to use the [FireForge Workspace](https://documentation.wildfirecommons.org/documentation/workspace/). 
+FireForge is a community platform to bring data, models, and services into workflows for you to further explore. Learn more about [FireForge Compute](https://documentation.wildfirecommons.org/jupyter/jupyterhub/) and how to use the [FireForge Workspace](https://documentation.wildfirecommons.org/workspace/). 
 
 ## Pathfinders
 Showcase and multiply the impact of existing efforts that leverage open data and open science for wildland fire solutions. Connect with us to share your idea. Email us at pathfinder@wildfirecommons.org.
