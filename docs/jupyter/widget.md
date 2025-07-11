@@ -2,8 +2,6 @@
 
 The Widget is a JupyterLab extension that provides an interactive interface to access key features of the platform. This widget is accessible from the left menu within the JupyterHub service.
 
-<img src="../images/ndp-widget.png">
-
 The Widget consists of the following components:
 
 - **File Manager:** An alternative access to the file browser, allowing you to manage your files and directories.
