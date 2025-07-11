@@ -17,3 +17,25 @@ Driving tasks for the Wildfire Commons to achieve these goals include:
 - Pathfinder Projects for Future Directions: Work with the community of practice to select pathfinder projects to scale data and models for future application.
 - Creation of Blueprint for Future Phases: Planning achievable, scalable, and sustained use of the Wildfire Commons for collective impact.
 
+
+# Getting Started
+
+# Join the Wildfire Commons Community
+Become a part of our dynamic community. Connect with experts, collaborate on innovative projects, and access exclusive resources. Sign up now and start making an impact.
+
+# Pathfinders
+Showcase and multiply the impact of existing efforts that leverage open data and open science for wildland fire solutions. Connect with us to share your idea. Email us at pathfinder@wildfirecommons.org.
+
+# Participate in the Case Study
+Researchers and technologists working on 3D fuel and fire modeling will come together to use the FireForge platform to create new innovations. Email us at info@wildfirecommons.org to share your interest.
+
+# Connect with the Community
+Join the conversation! We encourage our community to start discussions, share insights, and network on LinkedIn. Connect with peers, exchange ideas, and stay updated. Join our LinkedIn group and start engaging today! Join us on the LinkedIn Group at: https://www.linkedin.com/groups/14463867/
+ 
+#Partner with the Wildfire Commons
+We understand there are many wildfire initiatives, and finding the right partners for effective collaboration is essential. At the Wildfire Commons, our mission is to foster community-driven collaboration and transparency with expertise in wildfire mitigation and management related to vegetation and fuels. Together, we can combine our strengths and expertise to create a safer, more resilient future.
+- Showcase your solutions on the Wildfire Commons
+- Provide feedback to the Wildfire Commons
+- Amplify your impact while fostering connections
+Partner with us at: https://docs.google.com/forms/d/e/1FAIpQLSfmBpm2JZ7H0BJwcU8B6FwHg1GzF8qkm39fRxxfPui7XC7mdg/viewform
+
