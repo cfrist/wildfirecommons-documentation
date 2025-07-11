@@ -32,7 +32,7 @@ nav:
 
 theme:
   name: material
-  logo: docs/general/images/logos/wildfirecommons.png
+  logo: docs/images/logos/wildfire_technology_commons_logomark_white_720.png
   features:
     - content.code.copy
     - navigation.top
