@@ -6,11 +6,9 @@ nav:
   - About: 
     - About Wildfire Commons: general/about.md
     - Key Features: general/key-features.md
-    - Institutions: general/institutions.md
+    - Getting Started: start/getting-started.md
   - Start: 
     - Sign In: start/signin.md
-    - Expert Network: start/expertnetwork.md
-    - Pathfinders: start/pathfinders.md
   - Catalog:
     - Exploring Data Catalog: catalog/catalog.md
     - Advanced Search: catalog/advanced-search.md
