@@ -20,19 +20,25 @@ Driving tasks for the Wildfire Commons to achieve these goals include:
 
 # Getting Started
 
-# Join the Wildfire Commons Community
-Become a part of our dynamic community. Connect with experts, collaborate on innovative projects, and access exclusive resources. Sign up now and start making an impact.
+## Join the Wildfire Commons Community
+Become a part of our dynamic community. Connect with experts, collaborate on innovative projects, and access exclusive resources. Sign up now and start making an impact. Learn how to create an account and your [Expert Profile](https://documentation.wildfirecommons.org/documentation/start/signin/) 
 
-# Pathfinders
+##Use the Catalog
+One of the key features of Wildfire Commons is its extensive and diverse data, model, and service catalog, which offers a broad selection of datasets and streams covering various models and services. This catalog is enriched through collaboration with numerous organizations and researchers, who contribute listings which are accessible via the platform’s registration service. Learn more about the [Catalog](https://documentation.wildfirecommons.org/documentation/catalog/catalog/) and how to [Register Products to the Catalog](https://documentation.wildfirecommons.org/documentation/catalog/register-data/).
+
+##Learn about the features of FireForge
+FireForge is a community platform to bring data, models, and services into workflows for you to further explore. Learn more about [FireForge Compute](https://documentation.wildfirecommons.org/documentation/jupyter/jupyterhub/) and how to use the [FireForge Workspace](https://documentation.wildfirecommons.org/documentation/workspace/). 
+
+## Pathfinders
 Showcase and multiply the impact of existing efforts that leverage open data and open science for wildland fire solutions. Connect with us to share your idea. Email us at pathfinder@wildfirecommons.org.
 
-# Participate in the Case Study
+## Participate in the Case Study
 Researchers and technologists working on 3D fuel and fire modeling will come together to use the FireForge platform to create new innovations. Email us at info@wildfirecommons.org to share your interest.
 
-# Connect with the Community
+## Connect with the Community
 Join the conversation! We encourage our community to start discussions, share insights, and network on LinkedIn. Connect with peers, exchange ideas, and stay updated. Join our LinkedIn group and start engaging today! Join us on the LinkedIn Group at: https://www.linkedin.com/groups/14463867/
  
-#Partner with the Wildfire Commons
+##Partner with the Wildfire Commons
 We understand there are many wildfire initiatives, and finding the right partners for effective collaboration is essential. At the Wildfire Commons, our mission is to foster community-driven collaboration and transparency with expertise in wildfire mitigation and management related to vegetation and fuels. Together, we can combine our strengths and expertise to create a safer, more resilient future.
 - Showcase your solutions on the Wildfire Commons
 - Provide feedback to the Wildfire Commons
