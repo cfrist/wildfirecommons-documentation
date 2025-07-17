@@ -6,43 +6,51 @@ nav:
   - About: 
     - About Wildfire Commons: general/about.md
     - Key Features: general/key-features.md
-    - Getting Started: start/getting-started.md
   - Start: 
+    - Getting Started: start/getting-started.md
     - Sign In: start/signin.md
-  - Catalog:
-    - Exploring Data Catalog: catalog/catalog.md
-    - Advanced Search: catalog/advanced-search.md
-    - Register your data: catalog/register-data.md
+    - Working Tutorial: start/working-tutorial.md
+  - Explore The Catalog:
+    - Data Catalog: catalog/catalog.md
+    #- Advanced Search: catalog/advanced-search.md
+  - Add Resources to the Commons:
+    - Register your data: add-resources/register-data.md
+    - Add your Curated Catalog: add-resources/add-data-catalog.md
+    - Register a Model:  add-resources/register-model.md
   - FireForge:
-    - Jupyterhub: jupyter/jupyterhub.md
-    - Widget: jupyter/widget.md
-    - Bring your own image: jupyter/bring-your-own-image.md
-    - Frequently Encountered Issues: jupyter/fei.md
-    - Workspace: 
-      - Workspace: workspace/index.md
-      - Tutorial: workspace/set-up.md
+    - Jupyterhub: fireforge/jupyterhub.md
+    #- Widget: jupyter/widget.md
+    - Bring your own image: fireforge/bring-your-own-image.md
+    #- Frequently Encountered Issues: jupyter/fei.md
+    #- Workspace: 
+    #  - Workspace: workspace/index.md
+    #  - Tutorial: workspace/set-up.md
+  - Data Challenges: 
+      - Host a Data Challenge: data-challenges/hosting-a-data-challenge.md
+      - Join a Data Challenge: data-challenges/participating-in-data-challenge.md
+  - Pathfinders:
+    -  Add a Pathfinder Project: pathfinders/add-pathfinder-project.md
   - Policies and Guidelines: 
-        - Terms of Use: policies/terms-of-use.md
-        - Privacy Policy: policies/privacy-policy.md
-        - Code of Conduct: policies/code-of-conduct.md
-        - PVC Policy: policies/pvc-policy.md
+    - Terms of Use: policies/terms-of-use.md
+    - Privacy Policy: policies/privacy-policy.md
+    - Code of Conduct: policies/code-of-conduct.md
   - Contact: general/contact.md
 
 theme:
   name: material
-  logo: images/logos/wildfire_technology_commons_logomark_white_720.png
+  logo: images/logos/WTClogo-firegraphiconly.png
   features:
     - content.code.copy
     - navigation.top
   palette:
     - scheme: default
-      primary: blue
+      primary: brown
       accent: orange
       toggle:
         icon: material/eye-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: blue
+      primary: brown
       accent: orange
       toggle:
         icon: material/eye
