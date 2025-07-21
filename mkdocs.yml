@@ -14,9 +14,12 @@ nav:
     - Data Catalog: catalog/catalog.md
     #- Advanced Search: catalog/advanced-search.md
   - Add Resources to the Commons:
-    - Register your data: add-resources/register-data.md
-    - Add your Curated Catalog: add-resources/add-data-catalog.md
-    - Register a Model:  add-resources/register-model.md
+    - Register your Data, Models and Services: add-resources/register-data.md
+    - Curated Catalogs: 
+      - Learn about Curated Catalogs: add-resources/curated-catalog/about.md
+      - Add your Curated Catalog: add-resources/curated-catalog/add-data-catalog.md
+    #- Register a Model:  add-resources/register-model.md
+    #- Register a Service: add-resources/register-service.md
   - FireForge:
     - Jupyterhub: fireforge/jupyterhub.md
     #- Widget: jupyter/widget.md
@@ -38,7 +41,7 @@ nav:
 
 theme:
   name: material
-  logo: images/logos/WTClogo-firegraphiconly.png
+  logo: images/logos/wstc-logo.png
   features:
     - content.code.copy
     - navigation.top
@@ -62,6 +65,9 @@ extra:
       link: https://bsky.app/profile/wildfirecommons.bsky.social
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/groups/14463867/
+
+extra_css:
+  - styles/custom-theme.css
 
 markdown_extensions:
   - tables

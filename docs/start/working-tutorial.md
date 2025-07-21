@@ -42,7 +42,7 @@ Once you’ve registered and explored the catalog, you’re ready to start worki
 
 6 - Search for `HPWREN Weather`, then click *Add* next to the `HPWREN Weather Station Measurements` dataset. Close the window once it's added.
 
-<img src="../images/add-dataset.png" style="border: 2px solid black;">
+<img src="../pics/add-dataset.png" style="border: 2px solid black;">
 
 7 - Click the *Edit* button next to *Scripts*. Paste the demo GitHub repository URL: `https://github.com/WildfireScienceTechnologyCommons/first-workspace.git`. Then click *Add from external link*. Close the window once the repository is added. 
 
@@ -54,7 +54,7 @@ Once you’ve registered and explored the catalog, you’re ready to start worki
 
 1 - Scroll down and click the *JupyterHub* button.
 
-<img src="../images/jupyter-button.png" style="border: 2px solid black;">
+<img src="../pics/jupyter-button.png" style="border: 2px solid black;">
 
 2- Once in JupyterHub, reserve the following resources:
 
@@ -72,7 +72,7 @@ Once you’ve registered and explored the catalog, you’re ready to start worki
 
 **NOTE** If you encounter an error when launching the server:
 
-<img src="../images/error.png" style="border: 2px solid black;">
+<img src="../pics/error.png" style="border: 2px solid black;">
 
 - Click Logout (top-right corner).
 
@@ -93,7 +93,7 @@ Once you’ve registered and explored the catalog, you’re ready to start worki
 
 8 - Click *Clone into current folder* and wait for the repository to finish cloning.
 
-<img src="../images/clone.png" style="border: 2px solid black;">
+<img src="../pics/clone.png" style="border: 2px solid black;">
 
 9 - Go back to *Current Folder* and open the newly created `first-workspace` directory.
 
@@ -101,10 +101,7 @@ Once you’ve registered and explored the catalog, you’re ready to start worki
 
 11 - Wait for the log file to appear.
 
-<img src="../images/requirements.png" style="border: 2px solid black;">
-
-!!! info 
-    If the .log file doesn't appear, click the button again. Sometimes, the installation completes but the log file isn’t generated on the first attempt.
+<img src="../pics/requirements.png" style="border: 2px solid black;">
 
 12 - In the Widget, under *Add Selected Files*, choose:
 
@@ -114,17 +111,17 @@ Once you’ve registered and explored the catalog, you’re ready to start worki
 
 13- Check *Create Dataset Folder* and click *Add resources to current folder* to download the dataset. The download may take a few seconds.
 
-<img src="../images/dataset.png" style="border: 2px solid black;">
+<img src="../pics/dataset.png" style="border: 2px solid black;">
 
 14 - Go back to the *Current Folder* and open the `first-workspace` directory.
 
 15 - Open the file `onboarding.ipynb` and complete it by following the instructions in the notebook.
 
-<img src="../images/onboarding.png" style="border: 2px solid black;">
+<img src="../pics/onboarding.png" style="border: 2px solid black;">
 
 16 - Once you complete your notebook, go to *File* (top left corner) → *Hub Control Panel* → *Stop Server* to shut down your server.
 
-<img src="../images/stop-server.png" style="border: 2px solid black;">
+<img src="../pics/stop-server.png" style="border: 2px solid black;">
 
 
 ## Creating your first Project

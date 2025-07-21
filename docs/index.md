@@ -23,7 +23,12 @@ Helpful Quick Links:
 
 - [Catalog](./catalog/catalog.md)
 
-- [Registering Catalog Products]()
+- Registering Catalog Products:
+    - [Datasets](./add-resources/register-data.md)
+    - [Curated Catalogs](./add-resources/add-data-catalog.md)
+    - [Models](./add-resources/register-model.md)
+    - [Services](./add-resources/register-service.md)
+
 
 - [FireForge](https://documentation.wildfirecommons.org/jupyter/jupyterhub/)
 
