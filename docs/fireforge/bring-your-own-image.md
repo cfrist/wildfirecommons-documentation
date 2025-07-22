@@ -14,7 +14,7 @@ and configurations—to run a specific application or environment. Once you buil
 anywhere, from your local machine to cloud servers.
 
 When you launch a server in JupyterHub selecting the default , what happens behind curtains is that an image is used to create a JupyterLab 
-with the python minimal setup, plus the [NDP Widget](../jupyter/widget.md).  
+with the python minimal setup, plus the [WSTC Widget](../fireforge/widget.md).  
 
 
 **Persist your environments**

@@ -22,8 +22,8 @@ Once you fill up the form, click on Submit.
 To add resources to your curated catalog, follow the instructions on the following pages: 
 
 - [Register Data](../register-data.md)
-- [Register a Model](../register-model.md)
-- [Register a Service](../register-service.md)
+- [Register a Model](../register-data.md)
+- [Register a Service](../register-data.md)
 
 ## Adding your curated catalog to a CollabStudio
 

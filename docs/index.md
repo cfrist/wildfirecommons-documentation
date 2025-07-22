@@ -25,9 +25,9 @@ Helpful Quick Links:
 
 - Registering Catalog Products:
     - [Datasets](./add-resources/register-data.md)
-    - [Curated Catalogs](./add-resources/add-data-catalog.md)
-    - [Models](./add-resources/register-model.md)
-    - [Services](./add-resources/register-service.md)
+    - [Curated Catalogs](./add-resources/curated-catalog/about.md)
+    - [Models](./add-resources/register-data.md)
+    - [Services](./add-resources/register-data.md)
 
 
 - [FireForge](https://fireforge.wildfirecommons.org/)
