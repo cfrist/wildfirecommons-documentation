@@ -10,3 +10,10 @@
   --md-accent-fg-color: #FFB300;
 }
 
+.md-typeset a {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset a:focus, .md-typeset a:hover {
+  text-decoration: underline;
+}
