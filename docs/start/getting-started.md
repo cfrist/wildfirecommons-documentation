@@ -1,10 +1,10 @@
 # Getting Started
 
 ### 1. Join the Wildfire Commons Community
-Become a part of our dynamic community. Connect with experts, collaborate on innovative projects, and access exclusive resources. Sign up now and start making an impact. Learn how to [create an account and your *Expert Profile*.](./signin.md) 
+Become a part of our dynamic community by connecting with experts, collaborating on innovative projects, and gain access to exclusive resources. Sign up now and start making an impact. Learn how to [create an account and your *Expert Profile*.](./signin.md) 
 
 ### 2. Use the Catalog
-One of the key features of Wildfire Commons is its extensive and diverse data, model, and service [catalog](https://fireforge.wildfirecommons.org/ckandata), which offers a broad selection of datasets and streams covering various models and services. This catalog is enriched through collaboration with numerous organizations and researchers, who contribute listings which are accessible via the platform’s registration service. [Learn more about the Catalog](../catalog/catalog.md) and how to [Register Products to the Catalog](../add-resources/register-data.md).
+One of the key features of Wildfire Commons is its extensive and comprehensive data, model, and service [catalog](https://fireforge.wildfirecommons.org/ckandata), which offers a broad selection of datasets and streams covering various models and services. This catalog is enriched through collaboration with numerous organizations and researchers, who contribute listings which are accessible via the platform’s registration service. [Learn more about the Catalog](../catalog/catalog.md) and how to [Register Products to the Catalog](../add-resources/register-data.md).
 
 ### 3. Learn about the features of FireForge
 FireForge is a community platform to bring data, models, and services into workflows for you to further explore. Learn more about [how to work in FireForge](../start/working-tutorial.md) and the [FireForge Compute Service](../fireforge/jupyterhub.md). 

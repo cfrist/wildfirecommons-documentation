@@ -5,10 +5,8 @@
   style="display: block; margin: auto; max-width: 300px; max-height: 200px;" 
   alt="WTC Firegraph Logo">
 
-This is the official documentation site for the [Wildfire Commons](https://www.wildfirecommons.org/).
-
 <div style="text-align: justify;">
-We believe that avoiding devastating wildfires requires urgent, innovative, and collaborative solutions. The Wildfire Science & Technology Commons is a bold new initiative designed to accelerate technological innovations for wildfire management and mitigation. We are building a community platform around open data, cutting-edge science, AI, and shared knowledge.
+Avoiding devastating wildfires requires urgent, innovative, and collaborative solutions. The Wildfire Science & Technology Commons is a bold new initiative designed to accelerate technological innovations for wildfire management and mitigation. We are building a community platform around open data, cutting-edge science, AI, and shared knowledge.
 <br>
 <br>
 Our mission is to bring people together to break down the barriers that currently exist between wildfire-related data, models, and tools. Today these resources are siloed, which slows down innovation. We have the opportunity to create a seamless, smart platform to enable solutions that revolutionize how we understand, respond to, and prevent wildfires. Together, we can protect lives, property, and ecosystems from the ever-growing threat of wildfires.
