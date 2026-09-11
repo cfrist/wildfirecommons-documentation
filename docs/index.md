@@ -11,7 +11,7 @@ Avoiding devastating wildfires requires urgent, innovative, and collaborative so
 
 ## About
 
-The [Wildfire Science & Technology Commons (Wildfire Commons)](https://www.wildfirecommons.org/) is a community platform for wildfire-related data, models, tools, and services. Community members can join the Expert Network and list their wildfire research projects, organizations, or initiatives as Pathfinders. Once you have joined the Expert Network and listed your initiative as a Pathfinder, you can begin using the [FireForge Platform](../fireforge/about.md), an extension of the [National Data Platform](https://nationaldataplatform.org/documentation/) for the wildfire community.
+The [Wildfire Science & Technology Commons (Wildfire Commons)](https://www.wildfirecommons.org/) is a community platform for wildfire-related data, models, tools, and services. Community members can join the Expert Network and list their wildfire research projects, organizations, or initiatives as Pathfinders. Once you have joined the Expert Network and listed your initiative as a Pathfinder, you can begin using the [FireForge Platform](./getting-started/common-use-cases/general-users.md), an extension of the [National Data Platform](https://nationaldataplatform.org/documentation/) for the wildfire community.
 
 Our mission is to bring people together to break down the barriers that currently exist between wildfire-related data, models, and tools. Today these resources are siloed, which slows down innovation. We have the opportunity to create a seamless, smart platform to enable solutions that revolutionize how we understand, respond to, and prevent wildfires.
 
@@ -36,20 +36,11 @@ Driving tasks for the Wildfire Commons to achieve these goals include:
 
 ## Helpful Quick Links:
 
-- [Get Started](./start/getting-started.md)
+- [Create an Account](./getting-started/registration.md)
 
-- [Create an Account - Expert Network Profile](./start/signin.md)
+- [Catalog](./getting-started/catalog/basics.md)
 
-- [Catalog](./catalog/catalog.md)
-
-- Registering Catalog Products:
-    - [Datasets](./add-resources/register-data.md)
-    - [Curated Catalogs](./add-resources/curated-catalog/about.md)
-    - [Models](./add-resources/register-data.md)
-    - [Services](./add-resources/register-data.md)
-
-
-- [FireForge](./fireforge/about.md)
+- [Working in FireForge](./getting-started/workspaces/basics.md)
 
 !!! info
     The Wildfire Science & Technology Commons is a UC San Diego initiative funded by the National Institute of Standards and Technology (NIST). Special thanks to Senator Alex Padilla (D-CA) and Representatives Juan Vargas (CA-52) and Sara Jacobs (CA-51) for their support of this project through the Congressional appropriations process.

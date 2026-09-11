@@ -48,6 +48,7 @@ nav:
       - Workspaces: faq/workspaces.md
       - Jupyter basics: faq/jupyter.md
       - Jupyter troubleshooting: faq/jupyter-troubleshooting.md
+      - Community Questions: faq/community-questions.md
       #- (Education Hub) Classrooms: faq/education-hub-classroom.md
       #- (Education Hub) Data challenges: faq/education-hub-data-challenge.md
       # - Docker: faq/docker.md
@@ -61,7 +62,7 @@ theme:
     code: Roboto Mono
   # logo: images/logos/ndp-logo.png
   logo: images/logos/wstc-logo.png
-  favicon: images/wstc-logo.png
+  favicon: images/logos/wstc-logo.png
   features:
     # - content.action.edit
     # - content.action.view

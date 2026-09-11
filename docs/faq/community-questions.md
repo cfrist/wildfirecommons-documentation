@@ -1,6 +1,6 @@
 # Community Questions
 
-The questions and answers on this page are based on a transcript from the launch event on July 31st 2025. They reflect questions posed by the audience to the Founding Director, who responded during the live session. Some responses have been lightly edited for clarity and brevity. For the most current information or additional inquiries, please consult the full documentation or [reach out to our team](../general/contact.md).
+The questions and answers on this page are based on a transcript from the launch event on July 31st 2025. They reflect questions posed by the audience to the Founding Director, who responded during the live session. Some responses have been lightly edited for clarity and brevity. For the most current information or additional inquiries, please consult the full documentation or [reach out to our team](../contact.md).
 
 
 ![type:video](https://www.youtube-nocookie.com/embed/Ebd7i8lNaRU)

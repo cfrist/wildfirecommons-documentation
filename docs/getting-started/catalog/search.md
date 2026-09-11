@@ -8,7 +8,7 @@ In this quick tutorial, you will explore some data resources to get yourself fam
 
 2 - Type `HPWREN Weather`. You will see a dataset called *HPWREN Weather Station Measurements* among the listings. This is a dataset that we use as part of the [*How to create workspace*](../workspaces/create-workspace.md) tutorial.
 
-3 - To learn more about the dataset, click on *View More*. This will open a new tab where you can explore the metadata of the dataset, as well as each of its resources. 
+3 - To learn more about the dataset, click on the dataset. This will open a new tab where you can explore the metadata of the dataset, as well as each of its resources. 
 
 <img src="../images/hpwren.png" style="border: 2px solid black;">
 
